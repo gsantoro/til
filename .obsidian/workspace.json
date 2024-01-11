@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "f185cb8e09e03b41",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a3271266a12074c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c705e503a6218eab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "til/kubernetes/ignore delete errors with kubectl.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7f26f418a427cdc3",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8d696cbe01db247",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7801c421a4c05fda",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "408b89953c481707",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6b6c958047d5955b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "76dce8ba8e9d3d4c",
+    "type": "split",
+    "children": [
+      {
+        "id": "ddb727daf2138f0d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "afce7ff369c5acbf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "til/kubernetes/ignore delete errors with kubectl.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "61789655cc048d64",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "til/kubernetes/ignore delete errors with kubectl.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9a258e8eb2f8081e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "245fb00f8cb55352",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "til/kubernetes/ignore delete errors with kubectl.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "7801c421a4c05fda",
+  "lastOpenFiles": [
+    "til/kubernetes",
+    "templates/til.md",
+    "til/kubernetes/ignore delete errors with kubectl.md",
+    "til",
+    "templates"
+  ]
+}
