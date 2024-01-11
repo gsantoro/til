@@ -1,9 +1,9 @@
 ---
-title: ignore errors when deleting kubernetes resources that don't exists
+title: Ignore delete errors with kubectl
 tags:
   - kubernetes
 ---
-# Ignore errors when deleting Kubernetes resources that don't exists
+# Ignore delete errors with kubectl
 When trying to delete a Kubernetes resource that don't exists, it fails with error
 
 ```
