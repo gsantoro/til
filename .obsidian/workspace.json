@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "til/kubernetes/ignore delete errors with kubectl.md",
+                "file": "til/kubernetes/ignore-delete-errors-with-kubectl.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "til/kubernetes/ignore delete errors with kubectl.md",
+                "file": "til/kubernetes/ignore-delete-errors-with-kubectl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "til/kubernetes/ignore delete errors with kubectl.md",
+                "file": "til/kubernetes/ignore-delete-errors-with-kubectl.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "til/kubernetes/ignore delete errors with kubectl.md"
+                "file": "til/kubernetes/ignore-delete-errors-with-kubectl.md"
               }
             }
           }
@@ -154,7 +154,7 @@
   "lastOpenFiles": [
     "til/kubernetes",
     "templates/til.md",
-    "til/kubernetes/ignore delete errors with kubectl.md",
+    "til/kubernetes/ignore-delete-errors-with-kubectl.md",
     "til",
     "templates"
   ]
