@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "til/kubernetes/ignore-delete-errors-with-kubectl.md",
+                "file": "til/obsidian/obsidian-sync.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "til/kubernetes/ignore-delete-errors-with-kubectl.md",
+                "file": "til/obsidian/obsidian-sync.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "til/kubernetes/ignore-delete-errors-with-kubectl.md",
+                "file": "til/obsidian/obsidian-sync.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "til/kubernetes/ignore-delete-errors-with-kubectl.md"
+                "file": "til/obsidian/obsidian-sync.md"
               }
             }
           }
@@ -150,10 +150,12 @@
   },
   "active": "7801c421a4c05fda",
   "lastOpenFiles": [
+    "til/kubernetes/ignore-delete-errors-with-kubectl.md",
+    "til/obsidian/obsidian-sync.md",
+    "til/obsidian/obsidian-sync.md",
     "til/obsidian",
     "til/kubernetes",
     "templates/til.md",
-    "til/kubernetes/ignore-delete-errors-with-kubectl.md",
     "til",
     "templates"
   ]
