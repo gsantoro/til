@@ -2,6 +2,7 @@
 title: Ignore delete errors with kubectl
 tags:
   - kubernetes
+draft: "false"
 ---
 # Ignore delete errors with kubectl
 When trying to delete a Kubernetes resource that don't exists, it fails with error

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "til/obsidian/obsidian-sync.md",
+                "file": "til/kubernetes/ignore-delete-errors-with-kubectl.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "til/obsidian/obsidian-sync.md",
+                "file": "til/kubernetes/ignore-delete-errors-with-kubectl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "til/obsidian/obsidian-sync.md",
+                "file": "til/kubernetes/ignore-delete-errors-with-kubectl.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "til/obsidian/obsidian-sync.md"
+                "file": "til/kubernetes/ignore-delete-errors-with-kubectl.md"
               }
             }
           }
@@ -148,14 +148,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7801c421a4c05fda",
+  "active": "c705e503a6218eab",
   "lastOpenFiles": [
+    "til/obsidian/obsidian-sync.md",
     "til/kubernetes/ignore-delete-errors-with-kubectl.md",
-    "til/obsidian/obsidian-sync.md",
-    "til/obsidian/obsidian-sync.md",
+    "templates/til.md",
     "til/obsidian",
     "til/kubernetes",
-    "templates/til.md",
     "til",
     "templates"
   ]
