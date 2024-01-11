@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "til/kubernetes/ignore-delete-errors-with-kubectl.md",
+                "file": "til/git/change-git-origin-url.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "til/kubernetes/ignore-delete-errors-with-kubectl.md",
+                "file": "til/git/change-git-origin-url.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "til/kubernetes/ignore-delete-errors-with-kubectl.md",
+                "file": "til/git/change-git-origin-url.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "til/kubernetes/ignore-delete-errors-with-kubectl.md"
+                "file": "til/git/change-git-origin-url.md"
               }
             }
           }
@@ -152,6 +152,8 @@
   "lastOpenFiles": [
     "til/obsidian/obsidian-sync.md",
     "til/kubernetes/ignore-delete-errors-with-kubectl.md",
+    "til/git/change-git-origin-url.md",
+    "til/git",
     "templates/til.md",
     "til/obsidian",
     "til/kubernetes",

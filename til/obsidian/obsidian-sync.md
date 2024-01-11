@@ -3,7 +3,7 @@ title: obsidian-sync
 tags:
   - obsidian
   - backup
-draft: "false"
+draft: false
 ---
 # Sync local repos to GitHub
 A simple bash script called `obsidian-sync.sh` that synchronise some repos to GitHub
