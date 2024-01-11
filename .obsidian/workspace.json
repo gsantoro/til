@@ -145,13 +145,12 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
-      "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "7801c421a4c05fda",
   "lastOpenFiles": [
+    "til/Untitled",
     "til/kubernetes",
     "templates/til.md",
     "til/kubernetes/ignore-delete-errors-with-kubectl.md",
