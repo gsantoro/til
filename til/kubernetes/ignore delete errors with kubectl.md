@@ -10,7 +10,7 @@ When trying to delete a Kubernetes resource that don't exists, it fails with err
 Error from server (NotFound): error when deleting "manifest.yml": <resource type> "<resource name>" not found
 ```
 
-> [!warn] to notice that `<resource type>` and `<resource name>` are placeholders in the previous error
+> [!info] to notice that `<resource type>` and `<resource name>` are placeholders in the previous error
 
 
 The solution is to ignore the error with the command
