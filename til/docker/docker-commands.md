@@ -1,6 +1,6 @@
 ---
 title: docker-commands
-draft: true
+draft: false
 tags:
   - docker
 ---

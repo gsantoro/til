@@ -2,6 +2,7 @@
 title: Ignore delete errors with kubectl
 tags:
   - kubernetes
+  - errors
 draft: false
 ---
 # Ignore delete errors with kubectl

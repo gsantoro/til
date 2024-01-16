@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "til/elasticsearch/elasticsearch-stack-trace.md",
+                "file": "til/docker/docker-commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "til/elasticsearch/elasticsearch-stack-trace.md",
+                "file": "til/docker/docker-commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "til/elasticsearch/elasticsearch-stack-trace.md",
+                "file": "til/docker/docker-commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "til/elasticsearch/elasticsearch-stack-trace.md"
+                "file": "til/docker/docker-commands.md"
               }
             }
           }
@@ -153,10 +153,10 @@
     "til/git/change-git-origin-url.md",
     "til/elasticsearch/elasticsearch-stack-trace.md",
     "til/kubernetes/ignore-delete-errors-with-kubectl.md",
+    "til/obsidian/obsidian-sync.md",
     "til/docker/docker-commands.md",
     "til/elasticsearch",
     "til/docker",
-    "til/obsidian/obsidian-sync.md",
     "til/git",
     "templates/til.md",
     "til/obsidian",

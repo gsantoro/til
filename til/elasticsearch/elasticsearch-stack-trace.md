@@ -3,6 +3,7 @@ title: Print the stack trace from a request to Elasticsearch
 draft: false
 tags:
   - elasticsearch
+  - errors
 ---
 # Print the stack trace from a request to Elasticsearch
 If you have a request to Elasticsearch that fails with an error like the following
