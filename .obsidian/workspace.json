@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "til/cli/tmux-multiple-commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "til/cli/tmux-multiple-commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "til/cli/tmux-multiple-commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "til/cli/tmux-multiple-commands.md"
               }
             }
           }
@@ -150,8 +150,10 @@
   },
   "active": "c705e503a6218eab",
   "lastOpenFiles": [
+    "til/logs/logs-duckdb.md",
+    "til/cli/tmux-multiple-commands.md",
+    "til/cli",
     "til/docker/docker-commands.md",
-    "Untitled.md",
     "til/logs/dubck.md",
     "til/logs",
     "til/git/change-git-origin-url.md",
