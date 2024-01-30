@@ -29,7 +29,7 @@ This command will instead read the log file from the beginning and then keep tai
 
 ---
 
-P.S. Notice that if you invert the order of the commands, grep might hand indefinitely since the tail process is still running
+P.S. Notice that if you invert the order of the commands, grep might hang indefinitely since the tail process is still running
 
 ```bash
 grep -m 1 "Process 1 has started" <(tail -f -n +1 process_1.log)
