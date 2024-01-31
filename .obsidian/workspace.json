@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "til/cli/wait-process-log.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "76dce8ba8e9d3d4c",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "til/cli/wait-process-log.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "til/cli/wait-process-log.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "til/cli/wait-process-log.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -151,9 +150,11 @@
   },
   "active": "c705e503a6218eab",
   "lastOpenFiles": [
+    "til/git/change-git-origin-url.md",
+    "Untitled.md",
+    "til/cli/wait-process-log.md",
     "til/cli/tmux-multiple-commands.md",
     "til/cli/pid-by-command.md",
-    "til/cli/wait-process-log.md",
     "til/cli/Untitled.md",
     "til/inkscape/inkscape keymaps.md",
     "til/inkscape",
@@ -162,7 +163,6 @@
     "til/docker/docker-commands.md",
     "til/logs/dubck.md",
     "til/logs",
-    "til/git/change-git-origin-url.md",
     "til/elasticsearch/elasticsearch-stack-trace.md",
     "til/kubernetes/ignore-delete-errors-with-kubectl.md",
     "til/obsidian/obsidian-sync.md",
