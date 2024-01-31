@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "76dce8ba8e9d3d4c",
@@ -148,7 +149,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7801c421a4c05fda",
+  "active": "c705e503a6218eab",
   "lastOpenFiles": [
     "til/cli/tmux-multiple-commands.md",
     "til/cli/pid-by-command.md",
