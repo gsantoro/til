@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "til/git/github-task-list.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "til/git/github-task-list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "til/git/github-task-list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "til/git/github-task-list.md"
               }
             }
           }
@@ -148,24 +148,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c705e503a6218eab",
+  "active": "7801c421a4c05fda",
   "lastOpenFiles": [
-    "til/git/change-git-origin-url.md",
-    "Untitled.md",
-    "til/cli/wait-process-log.md",
-    "til/cli/tmux-multiple-commands.md",
     "til/cli/pid-by-command.md",
+    "til/cli/tmux-multiple-commands.md",
+    "til/cli/wait-process-log.md",
+    "til/docker/docker-commands.md",
+    "til/elasticsearch/elasticsearch-stack-trace.md",
+    "til/git/change-git-origin-url.md",
+    "til/logs/logs-duckdb.md",
+    "til/kubernetes/ignore-delete-errors-with-kubectl.md",
+    "til/obsidian/obsidian-sync.md",
+    "til/git/github-task-list.md",
     "til/cli/Untitled.md",
     "til/inkscape/inkscape keymaps.md",
     "til/inkscape",
-    "til/logs/logs-duckdb.md",
     "til/cli",
-    "til/docker/docker-commands.md",
     "til/logs/dubck.md",
     "til/logs",
-    "til/elasticsearch/elasticsearch-stack-trace.md",
-    "til/kubernetes/ignore-delete-errors-with-kubectl.md",
-    "til/obsidian/obsidian-sync.md",
     "til/elasticsearch",
     "til/docker",
     "til/git",

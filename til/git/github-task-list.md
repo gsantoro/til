@@ -4,7 +4,7 @@ draft: true
 tags: 
 
 ---
-# Add a tasklist to a GitHub issue
+# Add a task list to a GitHub issue
 [documentation](https://docs.github.com/en/issues/managing-your-tasks-with-tasklists/creating-a-tasklist#creating-tasklists-with-markdown)
 
 Use a code block like the following
