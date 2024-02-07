@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "til/git/github-task-list.md",
+                "file": "til/elasticsearch/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "til/git/github-task-list.md",
+                "file": "til/elasticsearch/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "til/git/github-task-list.md",
+                "file": "til/elasticsearch/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "til/git/github-task-list.md"
+                "file": "til/elasticsearch/Untitled.md"
               }
             }
           }
@@ -148,8 +148,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7801c421a4c05fda",
+  "active": "c705e503a6218eab",
   "lastOpenFiles": [
+    "til/git/github-task-list.md",
+    "til/elasticsearch/Untitled.md",
     "til/cli/pid-by-command.md",
     "til/cli/tmux-multiple-commands.md",
     "til/cli/wait-process-log.md",
@@ -159,7 +161,6 @@
     "til/logs/logs-duckdb.md",
     "til/kubernetes/ignore-delete-errors-with-kubectl.md",
     "til/obsidian/obsidian-sync.md",
-    "til/git/github-task-list.md",
     "til/cli/Untitled.md",
     "til/inkscape/inkscape keymaps.md",
     "til/inkscape",
