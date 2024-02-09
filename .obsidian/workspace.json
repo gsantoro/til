@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "til/cli/duckdb database.md",
+                "file": "til/cli/linux-open-ports.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "lsof",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "til/cli/duckdb database.md",
+                "file": "til/cli/linux-open-ports.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "til/cli/duckdb database.md",
+                "file": "til/cli/linux-open-ports.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "til/cli/duckdb database.md"
+                "file": "til/cli/linux-open-ports.md"
               }
             }
           }
@@ -150,13 +150,14 @@
   },
   "active": "7801c421a4c05fda",
   "lastOpenFiles": [
-    "til/elasticsearch/elasticsearch-default-field.md",
+    "til/cli/wait-process-log.md",
+    "til/cli/linux-open-ports.md",
+    "til/cli/tmux-multiple-commands.md",
+    "til/cli/pid-by-command.md",
     "til/cli/duckdb database.md",
+    "til/elasticsearch/elasticsearch-default-field.md",
     "til/git/github-task-list.md",
     "til/elasticsearch/Untitled.md",
-    "til/cli/pid-by-command.md",
-    "til/cli/tmux-multiple-commands.md",
-    "til/cli/wait-process-log.md",
     "til/docker/docker-commands.md",
     "til/elasticsearch/elasticsearch-stack-trace.md",
     "til/git/change-git-origin-url.md",
