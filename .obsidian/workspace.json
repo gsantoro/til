@@ -150,8 +150,9 @@
   },
   "active": "c705e503a6218eab",
   "lastOpenFiles": [
-    "til/cli/linux-open-ports.md",
+    "poetry-commands.md",
     "Untitled.md",
+    "til/cli/linux-open-ports.md",
     "til/cli/wait-process-log.md",
     "til/cli/tmux-multiple-commands.md",
     "til/cli/pid-by-command.md",

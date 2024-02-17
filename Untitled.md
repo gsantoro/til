@@ -1,18 +1,11 @@
 ---
-title: Poetry commands
+title: elasticsearch-commands
 draft: true
 tags: 
 
 ---
-# Poetry commands
-Add dependency
-
+# elasticsearch-commands
+get count of docs in an index
 ```bash
-poetry add elasticsearch
-```
-
-Add development dependecy
-
-```bash
-poetry add --dev ipykernel
+GET movies/_count
 ```
