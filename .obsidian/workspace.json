@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "til/git/ghcr.md",
+                "file": "til/elasticsearch/elasticsearch-simulate-index-template.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "til/git/ghcr.md",
+                "file": "til/elasticsearch/elasticsearch-simulate-index-template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "til/git/ghcr.md",
+                "file": "til/elasticsearch/elasticsearch-simulate-index-template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "til/git/ghcr.md"
+                "file": "til/elasticsearch/elasticsearch-simulate-index-template.md"
               }
             }
           }
@@ -150,8 +150,9 @@
   },
   "active": "7801c421a4c05fda",
   "lastOpenFiles": [
-    "til/elasticsearch/elasticsearch-commands.md",
     "til/git/ghcr.md",
+    "til/elasticsearch/elasticsearch-simulate-index-template.md",
+    "til/elasticsearch/elasticsearch-commands.md",
     "til/Untitled",
     "til/python/poetry-commands.md",
     "til/python",
