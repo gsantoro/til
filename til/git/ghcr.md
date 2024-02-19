@@ -4,7 +4,7 @@ draft: true
 tags: 
 
 ---
-# Ghcr - Github cotainer registry
+# Ghcr - Github container registry
 1. build container
 
 ```bash
