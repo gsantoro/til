@@ -150,8 +150,12 @@
   },
   "active": "c705e503a6218eab",
   "lastOpenFiles": [
-    "poetry-commands.md",
+    "til/elasticsearch/elasticsearch-commands.md",
     "Untitled.md",
+    "til/Untitled",
+    "til/python/poetry-commands.md",
+    "til/python",
+    "til/git/Untitled.md",
     "til/cli/linux-open-ports.md",
     "til/cli/wait-process-log.md",
     "til/cli/tmux-multiple-commands.md",
@@ -177,8 +181,6 @@
     "til/git",
     "templates/til.md",
     "til/obsidian",
-    "til/kubernetes",
-    "til",
-    "templates"
+    "til/kubernetes"
   ]
 }
