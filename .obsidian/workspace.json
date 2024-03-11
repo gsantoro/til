@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3a3271266a12074c",
+        "id": "68cdf0753453655e",
         "type": "tabs",
         "children": [
           {
-            "id": "c705e503a6218eab",
+            "id": "2ea3ad9b16d0edc7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "til/git/git-reset-main-to-upstream.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "til/git/git-reset-main-to-upstream.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "til/git/git-reset-main-to-upstream.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "til/git/git-reset-main-to-upstream.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,10 +140,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7801c421a4c05fda",
+  "active": "2ea3ad9b16d0edc7",
   "lastOpenFiles": [
-    "til/cli/tmux-multiple-commands.md",
     "til/git/git-reset-main-to-upstream.md",
+    "til/cli/tmux-multiple-commands.md",
     "til/git/Untitled.md",
     "til/docker/docker-commands.md",
     "til/elasticsearch/elasticsearch-search-template.md",
