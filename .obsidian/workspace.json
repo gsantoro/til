@@ -11,8 +11,12 @@
             "id": "2ea3ad9b16d0edc7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Untitled.md"
+              }
             }
           }
         ]
@@ -142,6 +150,8 @@
   },
   "active": "2ea3ad9b16d0edc7",
   "lastOpenFiles": [
+    "Untitled.md",
+    "til/mac",
     "til/git/git-reset-main-to-upstream.md",
     "til/cli/tmux-multiple-commands.md",
     "til/git/Untitled.md",
@@ -150,7 +160,6 @@
     "til/elasticsearch/elasticsearch-simulate-index-template.md",
     "til/git/ghcr.md",
     "til/elasticsearch/elasticsearch-commands.md",
-    "til/Untitled",
     "til/python/poetry-commands.md",
     "til/python",
     "til/cli/linux-open-ports.md",
