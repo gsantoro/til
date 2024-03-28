@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "til/docker/docker-other-arch.md",
+                "file": "nodejs-install-package-from-source.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "til/docker/docker-other-arch.md",
+                "file": "nodejs-install-package-from-source.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "til/docker/docker-other-arch.md",
+                "file": "nodejs-install-package-from-source.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "til/docker/docker-other-arch.md"
+                "file": "nodejs-install-package-from-source.md"
               }
             }
           }
@@ -150,8 +150,10 @@
   },
   "active": "7801c421a4c05fda",
   "lastOpenFiles": [
-    "til/mac/mac-key-repeat.md",
     "til/docker/docker-other-arch.md",
+    "nodejs-install-package-from-source.md",
+    "til/nodejs",
+    "til/mac/mac-key-repeat.md",
     "til/docker/docker-commands.md",
     "til/mac",
     "til/git/git-reset-main-to-upstream.md",
@@ -179,12 +181,10 @@
     "til/inkscape/inkscape keymaps.md",
     "til/inkscape",
     "til/cli",
-    "til/logs/dubck.md",
     "til/logs",
     "til/elasticsearch",
     "til/docker",
     "til/git",
-    "til/obsidian",
-    "til/kubernetes"
+    "til/obsidian"
   ]
 }
