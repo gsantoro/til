@@ -5,6 +5,14 @@ tags:
 
 ---
 # Nodejs install package from source
+First you need to build the package from source with
+
+```
+npm run build
+```
+
+if package.json supports a script `build`
+
 Install package from source with their dependencies first locally and then globally
 
 ```
