@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodejs-install-package-from-source.md",
+                "file": "til/nodejs/nodejs-install-package-from-source.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nodejs-install-package-from-source.md",
+                "file": "til/nodejs/nodejs-install-package-from-source.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nodejs-install-package-from-source.md",
+                "file": "til/nodejs/nodejs-install-package-from-source.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nodejs-install-package-from-source.md"
+                "file": "til/nodejs/nodejs-install-package-from-source.md"
               }
             }
           }
@@ -151,7 +151,7 @@
   "active": "7801c421a4c05fda",
   "lastOpenFiles": [
     "til/docker/docker-other-arch.md",
-    "nodejs-install-package-from-source.md",
+    "til/nodejs/nodejs-install-package-from-source.md",
     "til/nodejs",
     "til/mac/mac-key-repeat.md",
     "til/docker/docker-commands.md",
