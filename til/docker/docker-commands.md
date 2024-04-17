@@ -19,3 +19,9 @@ docker ps -f "name=<container-name>" --format json
 ```bash
 docker ps --format "{{.Names}}"
 ```
+
+3. Build an image for a different architecture
+
+```bash
+docker buildx build --platform linux/amd64 -t <image_name> .
+```
