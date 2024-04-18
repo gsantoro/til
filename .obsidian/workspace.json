@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "til/nodejs/nodejs-install-version.md",
+                "file": "til/nodejs/nodejs-install-package-from-source.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "til/nodejs/nodejs-install-version.md",
+                "file": "til/nodejs/nodejs-install-package-from-source.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "til/nodejs/nodejs-install-version.md",
+                "file": "til/nodejs/nodejs-install-package-from-source.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "til/nodejs/nodejs-install-version.md"
+                "file": "til/nodejs/nodejs-install-package-from-source.md"
               }
             }
           }
@@ -161,10 +161,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7801c421a4c05fda",
+  "active": "69dd5dc61354ed77",
   "lastOpenFiles": [
-    "til/nodejs/nodejs-install-package-from-source.md",
     "til/nodejs/nodejs-install-version.md",
+    "til/nodejs/nodejs-install-package-from-source.md",
     "til/nodejs/Untitled.md",
     "til/docker/docker-commands.md",
     "til/docker/docker-other-arch.md",
