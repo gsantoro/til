@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "til/nodejs/nodejs-install-package-from-source.md",
+                "file": "til/python/disable-venv-name-in-ps1.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "til/nodejs/nodejs-install-package-from-source.md",
+                "file": "til/python/disable-venv-name-in-ps1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "til/nodejs/nodejs-install-package-from-source.md",
+                "file": "til/python/disable-venv-name-in-ps1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "til/nodejs/nodejs-install-package-from-source.md"
+                "file": "til/python/disable-venv-name-in-ps1.md"
               }
             }
           }
@@ -163,8 +163,9 @@
   },
   "active": "69dd5dc61354ed77",
   "lastOpenFiles": [
-    "til/nodejs/nodejs-install-version.md",
     "til/nodejs/nodejs-install-package-from-source.md",
+    "til/python/disable-venv-name-in-ps1.md",
+    "til/nodejs/nodejs-install-version.md",
     "til/nodejs/Untitled.md",
     "til/docker/docker-commands.md",
     "til/docker/docker-other-arch.md",
@@ -191,7 +192,6 @@
     "til/git/change-git-origin-url.md",
     "til/logs/logs-duckdb.md",
     "til/kubernetes/ignore-delete-errors-with-kubectl.md",
-    "til/obsidian/obsidian-sync.md",
     "til/inkscape",
     "til/cli",
     "til/logs",
