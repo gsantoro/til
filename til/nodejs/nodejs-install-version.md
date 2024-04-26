@@ -1,8 +1,7 @@
 ---
 title: nodejs-install-version
-draft: true
-tags: 
-
+draft: false
+tags:
 ---
 # nodejs-install-version
 How to install a custom version of nodejs with [Node version manager](https://github.com/nvm-sh/nvm)

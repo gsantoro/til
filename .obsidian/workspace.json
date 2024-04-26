@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "68cdf0753453655e",
+        "id": "de0a3fef41943203",
         "type": "tabs",
         "children": [
           {
-            "id": "2ea3ad9b16d0edc7",
+            "id": "7b063ee9ee6c534b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "til/nodejs/nodejs-install-package-from-source.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "69dd5dc61354ed77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "til/nodejs/nodejs-install-version.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "til/nodejs/nodejs-install-version.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "til/nodejs/nodejs-install-version.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "til/nodejs/nodejs-install-version.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -161,13 +140,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "69dd5dc61354ed77",
+  "active": "7b063ee9ee6c534b",
   "lastOpenFiles": [
     "til/nodejs/nodejs-install-package-from-source.md",
+    "til/nodejs/nodejs-install-version.md",
     "til/docker/docker-other-arch.md",
     "til/python/poetry-commands.md",
     "til/python/disable-venv-name-in-ps1.md",
-    "til/nodejs/nodejs-install-version.md",
     "til/nodejs/Untitled.md",
     "til/docker/docker-commands.md",
     "til/nodejs",
