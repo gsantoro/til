@@ -5,23 +5,31 @@ tags:
 
 ---
 # nodejs-install-version
+How to install a custom version of nodejs with [Node version manager](https://github.com/nvm-sh/nvm)
 
 ```bash
 # install nvm
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
 
+
 # needed to use nvm in the same shell
-. /root/.bashrc
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
 
-# install a new version of nodejs and switch to it if that's the only one installed
+# install a new version of nodejs and switch to it 
+# if it is the only version installed
 nvm install v18.19.1
+```
 
+Some extra commands
+
+```bash
 # change the default version
 nvm use v18.19.1
 
-# list current version
+# List the current version
 nvm current
 
-# list all available versions
+# List all available versions
 nvm ls
 ```
