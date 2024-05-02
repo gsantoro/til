@@ -11,3 +11,6 @@ If you get the error
 Error: error getting credentials - err: exec: "docker-credential-desktop": executable file not found in $PATH, out: ``
 ```
 
+```
+brew install `docker-credential-desktop`
+```
