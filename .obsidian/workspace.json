@@ -11,8 +11,12 @@
             "id": "7b063ee9ee6c534b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "til/docker/docker-credentials-desktop-not-found.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lsof",
+                "query": "credsstore",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "til/docker/docker-credentials-desktop-not-found.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "til/docker/docker-credentials-desktop-not-found.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "til/docker/docker-credentials-desktop-not-found.md"
+              }
             }
           }
         ]
@@ -140,15 +148,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7b063ee9ee6c534b",
+  "active": "7801c421a4c05fda",
   "lastOpenFiles": [
+    "til/docker/docker-commands.md",
+    "til/docker/docker-credentials-desktop-not-found.md",
+    "til/docker/docker-other-arch.md",
+    "til/python/disable-venv-name-in-ps1.md",
+    "til/python/poetry-commands.md",
     "til/nodejs/nodejs-install-package-from-source.md",
     "til/nodejs/nodejs-install-version.md",
-    "til/docker/docker-other-arch.md",
-    "til/python/poetry-commands.md",
-    "til/python/disable-venv-name-in-ps1.md",
     "til/nodejs/Untitled.md",
-    "til/docker/docker-commands.md",
     "til/nodejs",
     "til/mac/mac-key-repeat.md",
     "til/mac",
@@ -170,7 +179,6 @@
     "til/elasticsearch/elasticsearch-stack-trace.md",
     "til/git/change-git-origin-url.md",
     "til/logs/logs-duckdb.md",
-    "til/kubernetes/ignore-delete-errors-with-kubectl.md",
     "til/inkscape",
     "til/cli",
     "til/logs",
