@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "til/docker/docker-credentials-desktop-not-found.md",
+                "file": "til/git/git-signed-commits.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "til/docker/docker-credentials-desktop-not-found.md",
+                "file": "til/git/git-signed-commits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "til/docker/docker-credentials-desktop-not-found.md",
+                "file": "til/git/git-signed-commits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "til/docker/docker-credentials-desktop-not-found.md"
+                "file": "til/git/git-signed-commits.md"
               }
             }
           }
@@ -150,8 +150,9 @@
   },
   "active": "7801c421a4c05fda",
   "lastOpenFiles": [
-    "til/docker/docker-commands.md",
     "til/docker/docker-credentials-desktop-not-found.md",
+    "til/git/git-signed-commits.md",
+    "til/docker/docker-commands.md",
     "til/docker/docker-other-arch.md",
     "til/python/disable-venv-name-in-ps1.md",
     "til/python/poetry-commands.md",
@@ -178,7 +179,6 @@
     "til/elasticsearch/Untitled.md",
     "til/elasticsearch/elasticsearch-stack-trace.md",
     "til/git/change-git-origin-url.md",
-    "til/logs/logs-duckdb.md",
     "til/inkscape",
     "til/cli",
     "til/logs",
