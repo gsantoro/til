@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "til/git/git-signed-commits.md",
+                "file": "til/obsidian/notice.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "til/git/git-signed-commits.md",
+                "file": "til/obsidian/notice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "til/git/git-signed-commits.md",
+                "file": "til/obsidian/notice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "til/git/git-signed-commits.md"
+                "file": "til/obsidian/notice.md"
               }
             }
           }
@@ -149,8 +149,10 @@
   },
   "active": "7b063ee9ee6c534b",
   "lastOpenFiles": [
-    "til/docker/docker-credentials-desktop-not-found.md",
+    "til/obsidian/obsidian-sync.md",
+    "til/obsidian/notice.md",
     "til/git/git-signed-commits.md",
+    "til/docker/docker-credentials-desktop-not-found.md",
     "til/docker/docker-commands.md",
     "til/docker/docker-other-arch.md",
     "til/python/disable-venv-name-in-ps1.md",
@@ -176,8 +178,6 @@
     "til/elasticsearch/elasticsearch-default-field.md",
     "til/git/github-task-list.md",
     "til/elasticsearch/Untitled.md",
-    "til/elasticsearch/elasticsearch-stack-trace.md",
-    "til/git/change-git-origin-url.md",
     "til/inkscape",
     "til/cli",
     "til/logs",
