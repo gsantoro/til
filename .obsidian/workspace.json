@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "de0a3fef41943203",
+        "id": "aafe01a6656949c4",
         "type": "tabs",
         "children": [
           {
-            "id": "7b063ee9ee6c534b",
+            "id": "96ed3e030c5228ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "til/obsidian/notice.md",
+                "file": "til/git/git-reset-main-to-upstream.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "til/obsidian/notice.md",
+                "file": "til/git/git-reset-main-to-upstream.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "til/obsidian/notice.md",
+                "file": "til/git/git-reset-main-to-upstream.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "til/obsidian/notice.md"
+                "file": "til/git/git-reset-main-to-upstream.md"
               }
             }
           }
@@ -147,10 +147,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7b063ee9ee6c534b",
+  "active": "96ed3e030c5228ed",
   "lastOpenFiles": [
-    "til/obsidian/obsidian-sync.md",
     "til/obsidian/notice.md",
+    "til/obsidian/obsidian-sync.md",
     "til/git/git-signed-commits.md",
     "til/docker/docker-credentials-desktop-not-found.md",
     "til/docker/docker-commands.md",
