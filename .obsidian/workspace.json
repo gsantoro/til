@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "til/git/git-reset-main-to-upstream.md",
+                "file": "til/git/git-fetch-pr.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "til/git/git-reset-main-to-upstream.md",
+                "file": "til/git/git-fetch-pr.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "til/git/git-reset-main-to-upstream.md",
+                "file": "til/git/git-fetch-pr.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "til/git/git-reset-main-to-upstream.md"
+                "file": "til/git/git-fetch-pr.md"
               }
             }
           }
@@ -147,8 +147,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "96ed3e030c5228ed",
+  "active": "7801c421a4c05fda",
   "lastOpenFiles": [
+    "til/git/git-fetch-pr.md",
+    "til/git/git-fetch-pr.md",
+    "til/git/git-reset-main-to-upstream.md",
+    "til/git/git-fetch-pr 1.md",
     "til/obsidian/notice.md",
     "til/obsidian/obsidian-sync.md",
     "til/git/git-signed-commits.md",
@@ -163,9 +167,7 @@
     "til/nodejs",
     "til/mac/mac-key-repeat.md",
     "til/mac",
-    "til/git/git-reset-main-to-upstream.md",
     "til/cli/tmux-multiple-commands.md",
-    "til/git/Untitled.md",
     "til/elasticsearch/elasticsearch-search-template.md",
     "til/elasticsearch/elasticsearch-simulate-index-template.md",
     "til/git/ghcr.md",
@@ -176,8 +178,6 @@
     "til/cli/pid-by-command.md",
     "til/cli/duckdb database.md",
     "til/elasticsearch/elasticsearch-default-field.md",
-    "til/git/github-task-list.md",
-    "til/elasticsearch/Untitled.md",
     "til/inkscape",
     "til/cli",
     "til/logs",
