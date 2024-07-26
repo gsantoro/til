@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "til/git/git-fetch-pr.md",
+                "file": "til/nodejs/nodejs-check-installed-version.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "til/git/git-fetch-pr.md",
+                "file": "til/nodejs/nodejs-check-installed-version.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "til/git/git-fetch-pr.md",
+                "file": "til/nodejs/nodejs-check-installed-version.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "til/git/git-fetch-pr.md"
+                "file": "til/nodejs/nodejs-check-installed-version.md"
               }
             }
           }
@@ -133,7 +133,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,8 +148,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7801c421a4c05fda",
+  "active": "96ed3e030c5228ed",
   "lastOpenFiles": [
+    "til/nodejs/nodejs-install-version.md",
+    "til/nodejs/nodejs-check-installed-version.md",
+    "til/nodejs/nodejs-install-package-from-source.md",
     "til/git/git-fetch-pr.md",
     "til/git/git-fetch-pr.md",
     "til/git/git-reset-main-to-upstream.md",
@@ -161,9 +165,6 @@
     "til/docker/docker-other-arch.md",
     "til/python/disable-venv-name-in-ps1.md",
     "til/python/poetry-commands.md",
-    "til/nodejs/nodejs-install-package-from-source.md",
-    "til/nodejs/nodejs-install-version.md",
-    "til/nodejs/Untitled.md",
     "til/nodejs",
     "til/mac/mac-key-repeat.md",
     "til/mac",
