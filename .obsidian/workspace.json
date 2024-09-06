@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "til/nodejs/nodejs-check-installed-version.md",
+                "file": "til/git/git-clean-rebase.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "til/nodejs/nodejs-check-installed-version.md",
+                "file": "til/git/git-clean-rebase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "til/nodejs/nodejs-check-installed-version.md",
+                "file": "til/git/git-clean-rebase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "til/nodejs/nodejs-check-installed-version.md"
+                "file": "til/git/git-clean-rebase.md"
               }
             }
           }
@@ -148,14 +148,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "96ed3e030c5228ed",
+  "active": "7801c421a4c05fda",
   "lastOpenFiles": [
-    "til/nodejs/nodejs-install-version.md",
+    "til/git/git-reset-main-to-upstream.md",
+    "til/git/git-clean-rebase.md",
     "til/nodejs/nodejs-check-installed-version.md",
+    "til/nodejs/nodejs-install-version.md",
     "til/nodejs/nodejs-install-package-from-source.md",
     "til/git/git-fetch-pr.md",
     "til/git/git-fetch-pr.md",
-    "til/git/git-reset-main-to-upstream.md",
     "til/git/git-fetch-pr 1.md",
     "til/obsidian/notice.md",
     "til/obsidian/obsidian-sync.md",
@@ -178,7 +179,6 @@
     "til/cli/wait-process-log.md",
     "til/cli/pid-by-command.md",
     "til/cli/duckdb database.md",
-    "til/elasticsearch/elasticsearch-default-field.md",
     "til/inkscape",
     "til/cli",
     "til/logs",
