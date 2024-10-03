@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "til/git/git-clean-rebase.md",
+                "file": "til/git/github-list-all-commits.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "til/git/git-clean-rebase.md",
+                "file": "til/git/github-list-all-commits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "til/git/git-clean-rebase.md",
+                "file": "til/git/github-list-all-commits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "til/git/git-clean-rebase.md"
+                "file": "til/git/github-list-all-commits.md"
               }
             }
           }
@@ -133,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,10 +147,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7801c421a4c05fda",
+  "active": "96ed3e030c5228ed",
   "lastOpenFiles": [
-    "til/git/git-reset-main-to-upstream.md",
+    "til/git/github-task-list.md",
+    "til/git/github-list-all-commits.md",
     "til/git/git-clean-rebase.md",
+    "til/git/git-reset-main-to-upstream.md",
     "til/nodejs/nodejs-check-installed-version.md",
     "til/nodejs/nodejs-install-version.md",
     "til/nodejs/nodejs-install-package-from-source.md",
@@ -177,8 +178,6 @@
     "til/python",
     "til/cli/linux-open-ports.md",
     "til/cli/wait-process-log.md",
-    "til/cli/pid-by-command.md",
-    "til/cli/duckdb database.md",
     "til/inkscape",
     "til/cli",
     "til/logs",
