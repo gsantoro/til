@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "til/git/git-discard-local-changes.md",
+                "file": "til/python/uv.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "git-discard-local-changes"
+              "title": "uv"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "til/git/git-discard-local-changes.md",
+                "file": "til/python/uv.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for git-discard-local-changes"
+              "title": "Backlinks for uv"
             }
           },
           {
@@ -165,8 +165,9 @@
   },
   "active": "96ed3e030c5228ed",
   "lastOpenFiles": [
-    "til/git/github-list-all-commits.md",
     "til/git/git-discard-local-changes.md",
+    "til/python/uv.md",
+    "til/git/github-list-all-commits.md",
     "til/git/github-task-list.md",
     "til/git/git-clean-rebase.md",
     "til/git/git-reset-main-to-upstream.md",
@@ -193,7 +194,6 @@
     "til/git/ghcr.md",
     "til/elasticsearch/elasticsearch-commands.md",
     "til/python",
-    "til/cli/linux-open-ports.md",
     "til/inkscape",
     "til/cli",
     "til/logs",
