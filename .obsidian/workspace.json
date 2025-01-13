@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "til/python/uv.md",
+                "file": "til/git/git-safe-rebase.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "uv"
+              "title": "git-safe-rebase"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "til/python/uv.md",
+                "file": "til/git/git-safe-rebase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for uv"
+              "title": "Backlinks for git-safe-rebase"
             }
           },
           {
@@ -165,21 +165,23 @@
   },
   "active": "96ed3e030c5228ed",
   "lastOpenFiles": [
+    "til/git/change-git-origin-url.md",
+    "til/git/git-safe-rebase.md",
+    "til/git/ghcr.md",
+    "til/git/git-clean-rebase.md",
     "til/git/git-discard-local-changes.md",
-    "til/python/uv.md",
+    "til/git/git-fetch-pr.md",
+    "til/git/git-reset-main-to-upstream.md",
+    "til/git/git-signed-commits.md",
     "til/git/github-list-all-commits.md",
     "til/git/github-task-list.md",
-    "til/git/git-clean-rebase.md",
-    "til/git/git-reset-main-to-upstream.md",
+    "til/python/uv.md",
     "til/nodejs/nodejs-check-installed-version.md",
     "til/nodejs/nodejs-install-version.md",
     "til/nodejs/nodejs-install-package-from-source.md",
-    "til/git/git-fetch-pr.md",
-    "til/git/git-fetch-pr.md",
     "til/git/git-fetch-pr 1.md",
     "til/obsidian/notice.md",
     "til/obsidian/obsidian-sync.md",
-    "til/git/git-signed-commits.md",
     "til/docker/docker-credentials-desktop-not-found.md",
     "til/docker/docker-commands.md",
     "til/docker/docker-other-arch.md",
@@ -191,8 +193,6 @@
     "til/cli/tmux-multiple-commands.md",
     "til/elasticsearch/elasticsearch-search-template.md",
     "til/elasticsearch/elasticsearch-simulate-index-template.md",
-    "til/git/ghcr.md",
-    "til/elasticsearch/elasticsearch-commands.md",
     "til/python",
     "til/inkscape",
     "til/cli",
