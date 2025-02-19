@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "til/git/git-safe-rebase.md",
+                "file": "til/git/git-checkout-symlinks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "git-safe-rebase"
+              "title": "git-checkout-symlinks"
             }
           }
         ]
@@ -167,8 +167,9 @@
   },
   "active": "96ed3e030c5228ed",
   "lastOpenFiles": [
-    "til/git/change-git-origin-url.md",
     "til/git/git-safe-rebase.md",
+    "til/git/git-checkout-symlinks.md",
+    "til/git/change-git-origin-url.md",
     "til/git/ghcr.md",
     "til/git/git-clean-rebase.md",
     "til/git/git-discard-local-changes.md",
@@ -194,7 +195,6 @@
     "til/mac",
     "til/cli/tmux-multiple-commands.md",
     "til/elasticsearch/elasticsearch-search-template.md",
-    "til/elasticsearch/elasticsearch-simulate-index-template.md",
     "til/python",
     "til/inkscape",
     "til/cli",
